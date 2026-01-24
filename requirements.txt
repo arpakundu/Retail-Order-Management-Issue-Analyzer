@@ -1,0 +1,5 @@
+pandas
+numpy
+sqlite3     # NOTE: sqlite3 is part of Python stdlib, no need to install separately
+jupyterlab  # Optional if using JupyterLab environment
+ipython     # Optional, enhances notebook experience
