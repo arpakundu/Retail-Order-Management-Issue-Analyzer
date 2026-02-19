@@ -94,5 +94,3 @@ Arpa Kundu
 
 ## 📜 License
 MIT License
-If you want me to help generate any other part of this project — like resume bullets, interview explanations, or additional code snippets — just let me know!
-
